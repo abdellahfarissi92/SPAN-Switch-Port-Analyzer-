@@ -1,0 +1,5 @@
+{
+  "name": "SPAN Visualizer",
+  "description": "An educational tool to visualize and understand Cisco SPAN (Switch Port Analyzer) concepts using AI-generated diagrams.",
+  "requestFramePermissions": []
+}
